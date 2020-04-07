@@ -1,4 +1,3 @@
-![](./resources/official_armmbed_example_badge.png)
 # Mbed OS PS2 Controller
 
 mbed host application for PS2 controller
